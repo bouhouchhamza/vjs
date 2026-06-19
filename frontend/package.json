@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vue-tsc -b && vite build",
+    "dev": "node init && vite",
+    "build": "node init && vue-tsc -b && vite build",
     "preview": "vite preview",
     "lint": "eslint \"src/**/*.{ts,vue}\" --max-warnings=0"
   },
