@@ -1,0 +1,230 @@
+[
+  {
+    "id": "prod-iphone-15-pro",
+    "name": "Apple iPhone 15 Pro 128 Go",
+    "slug": "apple-iphone-15-pro-128-go",
+    "description": "Smartphone Apple avec écran Super Retina XDR 6,1 pouces, puce A17 Pro, USB-C et système photo professionnel.",
+    "price": 1129,
+    "compareAtPrice": 1229,
+    "categoryId": "cat-smartphones",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 312,
+    "stock": 14,
+    "featured": true,
+    "tags": ["apple", "iphone", "smartphone", "photo"]
+  },
+  {
+    "id": "prod-galaxy-s24-ultra",
+    "name": "Samsung Galaxy S24 Ultra 256 Go",
+    "slug": "samsung-galaxy-s24-ultra-256-go",
+    "description": "Smartphone Android premium avec écran AMOLED 6,8 pouces, stylet S Pen, zoom avancé et fonctions Galaxy AI.",
+    "price": 1299,
+    "compareAtPrice": 1399,
+    "categoryId": "cat-smartphones",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 205,
+    "stock": 18,
+    "featured": true,
+    "tags": ["samsung", "galaxy", "android", "stylet"]
+  },
+  {
+    "id": "prod-sony-wh1000xm5",
+    "name": "Sony WH-1000XM5",
+    "slug": "sony-wh-1000xm5",
+    "description": "Casque Bluetooth circum-aural avec réduction de bruit active, autonomie longue durée et appels clairs.",
+    "price": 349,
+    "compareAtPrice": 419,
+    "categoryId": "cat-audio",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.9,
+    "reviewCount": 428,
+    "stock": 26,
+    "featured": true,
+    "tags": ["sony", "casque", "audio", "bluetooth"]
+  },
+  {
+    "id": "prod-airpods-pro-2",
+    "name": "Apple AirPods Pro 2 USB-C",
+    "slug": "apple-airpods-pro-2-usb-c",
+    "description": "Écouteurs sans fil avec réduction active du bruit, audio adaptatif, boîtier MagSafe USB-C et son spatial.",
+    "price": 279,
+    "compareAtPrice": 299,
+    "categoryId": "cat-audio",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 541,
+    "stock": 35,
+    "featured": true,
+    "tags": ["apple", "airpods", "ecouteurs", "audio"]
+  },
+  {
+    "id": "prod-macbook-air-m3",
+    "name": "Apple MacBook Air 13 M3",
+    "slug": "apple-macbook-air-13-m3",
+    "description": "Ordinateur portable fin et silencieux avec puce Apple M3, écran Liquid Retina 13 pouces et autonomie jusqu'à 18 heures.",
+    "price": 1299,
+    "compareAtPrice": 1399,
+    "categoryId": "cat-informatique",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 184,
+    "stock": 11,
+    "featured": true,
+    "tags": ["apple", "macbook", "ordinateur", "travail"]
+  },
+  {
+    "id": "prod-ipad-air-m2",
+    "name": "Apple iPad Air 11 M2",
+    "slug": "apple-ipad-air-11-m2",
+    "description": "Tablette polyvalente avec puce M2, écran Liquid Retina 11 pouces, Wi-Fi 6E et compatibilité Apple Pencil Pro.",
+    "price": 719,
+    "compareAtPrice": 789,
+    "categoryId": "cat-informatique",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 137,
+    "stock": 22,
+    "featured": false,
+    "tags": ["apple", "ipad", "tablette", "creation"]
+  },
+  {
+    "id": "prod-nike-air-force-1",
+    "name": "Nike Air Force 1 '07",
+    "slug": "nike-air-force-1-07",
+    "description": "Sneaker iconique en cuir blanc avec amorti confortable, silhouette basse et style intemporel.",
+    "price": 119,
+    "compareAtPrice": 129,
+    "categoryId": "cat-mode",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.5,
+    "reviewCount": 628,
+    "stock": 48,
+    "featured": true,
+    "tags": ["nike", "sneakers", "mode", "cuir"]
+  },
+  {
+    "id": "prod-herschel-little-america",
+    "name": "Herschel Little America 30 L",
+    "slug": "herschel-little-america-30-l",
+    "description": "Sac à dos urbain avec compartiment ordinateur, fermeture à cordon et bretelles rembourrées.",
+    "price": 119,
+    "compareAtPrice": 149,
+    "categoryId": "cat-mode",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.4,
+    "reviewCount": 96,
+    "stock": 20,
+    "featured": false,
+    "tags": ["sac", "voyage", "ordinateur", "mode"]
+  },
+  {
+    "id": "prod-dyson-v15-detect",
+    "name": "Dyson V15 Detect Absolute",
+    "slug": "dyson-v15-detect-absolute",
+    "description": "Aspirateur sans fil avec éclairage laser de la poussière, filtration avancée et accessoires multi-surfaces.",
+    "price": 699,
+    "compareAtPrice": 799,
+    "categoryId": "cat-maison",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.6,
+    "reviewCount": 151,
+    "stock": 9,
+    "featured": false,
+    "tags": ["dyson", "maison", "aspirateur", "sans fil"]
+  },
+  {
+    "id": "prod-philips-hue-starter",
+    "name": "Philips Hue White & Color Starter Kit",
+    "slug": "philips-hue-white-color-starter-kit",
+    "description": "Kit d'éclairage connecté avec pont Hue, ampoules couleur et contrôle via application ou assistants vocaux.",
+    "price": 179,
+    "compareAtPrice": 209,
+    "categoryId": "cat-maison",
+    "image": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1540932239986-30128078f3c5?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.5,
+    "reviewCount": 88,
+    "stock": 17,
+    "featured": false,
+    "tags": ["philips", "hue", "maison", "connecte"]
+  },
+  {
+    "id": "prod-apple-watch-series-9",
+    "name": "Apple Watch Series 9 GPS 45 mm",
+    "slug": "apple-watch-series-9-gps-45-mm",
+    "description": "Montre connectée avec écran Retina toujours activé, suivi santé, notifications et entraînements personnalisés.",
+    "price": 479,
+    "compareAtPrice": 529,
+    "categoryId": "cat-sport",
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.8,
+    "reviewCount": 272,
+    "stock": 16,
+    "featured": true,
+    "tags": ["apple", "watch", "sport", "sante"]
+  },
+  {
+    "id": "prod-garmin-forerunner-265",
+    "name": "Garmin Forerunner 265",
+    "slug": "garmin-forerunner-265",
+    "description": "Montre GPS de running avec écran AMOLED, métriques d'entraînement, musique et autonomie longue durée.",
+    "price": 449,
+    "compareAtPrice": 499,
+    "categoryId": "cat-sport",
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "rating": 4.7,
+    "reviewCount": 119,
+    "stock": 13,
+    "featured": false,
+    "tags": ["garmin", "running", "gps", "sport"]
+  }
+]

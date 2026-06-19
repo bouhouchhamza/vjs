@@ -1,0 +1,6 @@
+import{c as o}from"./createLucideIcon-CX-7LuSD.js";import{e as n,c,b as r,h as d,a as t,t as a,G as l,o as m}from"./index-BCjiyiZH.js";/**
+ * @license lucide-vue-next v0.468.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const i=o("PackageOpenIcon",[["path",{d:"M12 22v-9",key:"x3hkom"}],["path",{d:"M15.17 2.21a1.67 1.67 0 0 1 1.63 0L21 4.57a1.93 1.93 0 0 1 0 3.36L8.82 14.79a1.655 1.655 0 0 1-1.64 0L3 12.43a1.93 1.93 0 0 1 0-3.36z",key:"2ntwy6"}],["path",{d:"M20 13v3.87a2.06 2.06 0 0 1-1.11 1.83l-6 3.08a1.93 1.93 0 0 1-1.78 0l-6-3.08A2.06 2.06 0 0 1 4 16.87V13",key:"1pmm1c"}],["path",{d:"M21 12.43a1.93 1.93 0 0 0 0-3.36L8.83 2.2a1.64 1.64 0 0 0-1.63 0L3 4.57a1.93 1.93 0 0 0 0 3.36l12.18 6.86a1.636 1.636 0 0 0 1.63 0z",key:"12ttoo"}]]),p={class:"flex min-h-64 flex-col items-center justify-center rounded-md border border-dashed border-neutral-300 bg-white px-6 text-center"},h={class:"mt-4 text-lg font-semibold"},u={class:"mt-2 max-w-md text-sm text-neutral-600"},k=n({__name:"EmptyState",props:{title:{},message:{}},setup(e){return(s,x)=>(m(),c("div",p,[r(d(i),{class:"h-9 w-9 text-neutral-400"}),t("h2",h,a(e.title),1),t("p",u,a(e.message),1),l(s.$slots,"default")]))}});export{k as _};

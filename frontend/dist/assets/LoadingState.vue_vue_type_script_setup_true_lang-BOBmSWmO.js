@@ -1,0 +1,1 @@
+import{e as r,o as e,c as t,F as a,g as o}from"./index-BCjiyiZH.js";const c={class:"grid gap-4 sm:grid-cols-2 lg:grid-cols-4"},u=r({__name:"LoadingState",props:{count:{}},setup(n){return(d,i)=>(e(),t("div",c,[(e(!0),t(a,null,o(n.count,s=>(e(),t("div",{key:s,class:"h-72 animate-pulse rounded-md bg-neutral-200"}))),128))]))}});export{u as _};

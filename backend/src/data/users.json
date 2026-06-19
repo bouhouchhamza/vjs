@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Admin User",
+    "email": "admin@velora.test",
+    "password": "password",
+    "role": "admin",
+    "phone": "+1 555 0100",
+    "address": "100 Market Street, San Francisco, CA"
+  },
+  {
+    "id": "user-mia",
+    "name": "Mia Carter",
+    "email": "mia@velora.test",
+    "password": "$2a$12$YbrWMV9kvyX806599G6cL.xonIieSkP787/EDRIBGqTKTPvX9k5Yu",
+    "role": "user",
+    "phone": "+1 555 0112",
+    "address": "22 Grand Avenue, Austin, TX"
+  }
+]

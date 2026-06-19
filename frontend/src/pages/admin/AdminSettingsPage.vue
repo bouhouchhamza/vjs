@@ -1,0 +1,36 @@
+<template>
+  <section>
+    <h1 class="text-3xl font-semibold">Settings</h1>
+    <div class="mt-6 grid gap-6 lg:grid-cols-2">
+      <section class="rounded-md border border-neutral-200 bg-white p-6">
+        <h2 class="text-xl font-semibold">Store settings</h2>
+        <div class="mt-5 grid gap-4">
+          <input class="input" value="Velora" />
+          <input class="input" value="support@velora.test" />
+          <select class="input">
+            <option>USD</option>
+            <option>EUR</option>
+          </select>
+          <button class="btn-primary w-fit" type="button">Save settings</button>
+        </div>
+      </section>
+      <section class="rounded-md border border-neutral-200 bg-white p-6">
+        <h2 class="text-xl font-semibold">Operational flags</h2>
+        <div class="mt-5 grid gap-4 text-sm">
+          <label class="flex items-center justify-between rounded-md border border-neutral-200 p-4">
+            <span>Accept new orders</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="flex items-center justify-between rounded-md border border-neutral-200 p-4">
+            <span>Enable promotional banners</span>
+            <input type="checkbox" checked />
+          </label>
+          <label class="flex items-center justify-between rounded-md border border-neutral-200 p-4">
+            <span>Show low stock alerts</span>
+            <input type="checkbox" checked />
+          </label>
+        </div>
+      </section>
+    </div>
+  </section>
+</template>

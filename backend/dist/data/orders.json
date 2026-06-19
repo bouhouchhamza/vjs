@@ -1,0 +1,39 @@
+[
+    {
+        "id": "order-1001",
+        "userId": "user-mia",
+        "customer": {
+            "name": "Mia Carter",
+            "email": "mia@velora.test",
+            "phone": "+1 555 0112"
+        },
+        "shippingAddress": {
+            "line1": "22 Grand Avenue",
+            "city": "Austin",
+            "state": "TX",
+            "postalCode": "78701",
+            "country": "US"
+        },
+        "items": [
+            {
+                "productId": "prod-axis-watch",
+                "name": "Axis Chronograph Watch",
+                "quantity": 1,
+                "price": 245
+            },
+            {
+                "productId": "prod-linen-shirt",
+                "name": "Riviera Linen Shirt",
+                "quantity": 2,
+                "price": 86
+            }
+        ],
+        "status": "processing",
+        "paymentMethod": "card",
+        "subtotal": 417,
+        "shipping": 0,
+        "tax": 33.36,
+        "total": 450.36,
+        "createdAt": "2026-06-01T10:30:00.000Z"
+    }
+]

@@ -1,0 +1,1 @@
+function t(r){return new Intl.NumberFormat("fr-FR",{style:"currency",currency:"EUR"}).format(r)}function e(r){return new Intl.DateTimeFormat("fr-FR",{dateStyle:"medium"}).format(new Date(r))}export{e as a,t as f};
